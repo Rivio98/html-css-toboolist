@@ -63,7 +63,48 @@ hr {
     border: 1px solid lightgrey;
 }
 
+/* Unordered list parameters */
 ul {
     list-style: none;
-    padding-bottom: 20px;
+    padding-top: 5px;
+}
+
+
+li {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+/*Label css  */
+.label {
+    margin-left: 5px;
+    font-size: 10px;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 15px;
+}
+
+.lightblue {
+    background-color: lightskyblue;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.yellow {
+    background-color: yellow;
 }
