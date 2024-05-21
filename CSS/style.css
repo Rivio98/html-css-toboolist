@@ -24,34 +24,30 @@ header {
     vertical-align: middle;
 }
 
-/* Body css */
-main {
-    background-color: white;
-    width: 1200px;
-    margin: 0 auto;
-    padding: 20px 0 10px 50px;
-    border-radius: 5px 5px 0 0;
-
-}
+/* Body css  divisione layout*/
 
 .container {
-    padding: 20px;
-}
-
-.task {
-    color: white;
-    background-color: lightskyblue;
-    border: 1px solid lightskyblue;
-    padding: 5px;
-    border-radius: 3px;
-}
-
-.section {
-    color: lightgrey;
+    width: 1200px;
+    margin: 50px auto 20px auto;
     background-color: white;
-    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+
+.sezione {
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* sezione pulsanti */
+
+.button {
     padding: 5px;
     border-radius: 3px;
 }
 
-.todolist {}
+.button
