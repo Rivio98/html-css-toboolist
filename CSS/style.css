@@ -4,7 +4,22 @@
     box-sizing: border-box;
 }
 
+/* CSS COLORE GRIGIO DI SFONDO */
+html {
+    background-color: lightgrey;
+}
 
+/* Header css layout */
 header {
-    background-color: beige;
+    background-color: white;
+}
+
+.logo.foto {
+    padding: 10px 0px 10px 20px;
+    vertical-align: middle;
+}
+
+.scritta {
+    font-size: 50px;
+    vertical-align: middle;
 }
