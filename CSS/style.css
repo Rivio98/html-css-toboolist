@@ -47,7 +47,18 @@ hr {
 
 .button {
     padding: 5px;
-    border-radius: 3px;
+    border-radius: 4px;
 }
 
-.button
+.task {
+    color: white;
+    background-color: lightskyblue;
+    border: none;
+}
+
+.section {
+    background-color: white;
+    color: lightgrey;
+    border-color: lightgray;
+    border: 1px solid lightgrey;
+}
